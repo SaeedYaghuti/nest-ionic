@@ -1,0 +1,8 @@
+{
+  "name": "NestIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ec41a531"
+}
